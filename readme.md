@@ -3,3 +3,5 @@ We are not affiliated with the development of Bonzi Clicker<br> RIP SLOVAK 2004 
 
 This is just to preserve Bonzi Clicker and will no longer be updated, this is the only official download.<br>
 DO NOT DOWNLOAD FROM ELSEWHERE!
+
+click to [download](https://github.com/AntiNord/BonziClicker/releases/download/1.0/Bonzi_Buddy.exe)
